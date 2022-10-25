@@ -1,6 +1,10 @@
 ## Welcome to STEMQuest
 
-### this area is still under construction, but areas we'll definitely have is
+### this area is still under construction, But here's the gist of what we'll be getting out hee
+
+STEMQuest is an area at the Boy Scout National Jamboree, of which programming is a part of it.  We'll be maintaining a bunch of our resources and notes
+for others to use in the development of these areas so that others can use them as resources for their programs
+
 
 Programming
 <!--
